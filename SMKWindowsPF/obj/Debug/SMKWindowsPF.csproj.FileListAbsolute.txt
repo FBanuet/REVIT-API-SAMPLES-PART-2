@@ -1,0 +1,11 @@
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\bin\Debug\SMKWindowsPF.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\bin\Debug\SMKWindowsPF.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKWindowsPF.csproj.CoreCompileInputs.cache
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKWindowsPF.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKWindowsPF.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKViewer.g.cs
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKWindowsPF_MarkupCompile.cache
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKWindowsPF_MarkupCompile.lref
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKViewer.baml
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKWindowsPF.g.resources
+C:\Users\SMK\source\repos\SpringalMKPlugins\SMKWindowsPF\obj\Debug\SMKWindowsPF.csprojAssemblyReference.cache

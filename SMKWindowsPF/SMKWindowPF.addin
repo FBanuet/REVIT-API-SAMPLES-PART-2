@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+
+ 
+  <AddIn Type="Command">
+    <Name>SMKWindowsPF</Name>
+    <Assembly>SMKWindowsPF.dll</Assembly>
+    <ClientId>9717bcdc-72c6-4b29-a0f0-8dc60e00b415</ClientId>
+    <FullClassName>SMKWindowsPF.ViewWPFModelCommand</FullClassName>
+    <Text>SMKWindowsPF</Text>
+    <VendorId>Fabian A Banuet</VendorId>
+    <VisibilityMode>AlwaysVisible</VisibilityMode>
+  </AddIn>
+
+
+
+</RevitAddIns>

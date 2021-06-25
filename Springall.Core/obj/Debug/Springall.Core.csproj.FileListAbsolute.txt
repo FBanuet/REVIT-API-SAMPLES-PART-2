@@ -1,0 +1,6 @@
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.Core\bin\Debug\Springall.Core.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.Core\bin\Debug\Springall.Core.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.Core\obj\Debug\Springall.Core.csproj.CoreCompileInputs.cache
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.Core\obj\Debug\Springall.Core.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.Core\obj\Debug\Springall.Core.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.Core\obj\Debug\Springall.Core.csprojAssemblyReference.cache

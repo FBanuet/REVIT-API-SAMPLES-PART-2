@@ -1,0 +1,25 @@
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\revitnavis320x320.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\revitnavis32x16.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\off16.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\off32.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\on16.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\on32.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\HideMF320X320.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\HideMF32X32.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\ShowMF320X320.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\ShowMF32X32.png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Springall.WPFSample.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Springall.WPFSample.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Springall.Core.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Springall.UI.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\SpringallSrc.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Springall.Core.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Springall.UI.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\SpringallSrc.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\obj\Debug\Springall.WPFSample.csprojAssemblyReference.cache
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\obj\Debug\Springall.WPFSample.csproj.CoreCompileInputs.cache
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\obj\Debug\Springall.WPFSample.csproj.CopyComplete
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\obj\Debug\Springall.WPFSample.dll
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\obj\Debug\Springall.WPFSample.pdb
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\SpingA320x720bco (1).png
+C:\Users\SMK\source\repos\SpringalMKPlugins\Springall.WPFSample\bin\Debug\Imagenes\Icons\SpingA32x72transp.png
